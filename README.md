@@ -147,6 +147,7 @@ The CareerMatch dashboard consists of three interactive Power BI pages, each foc
 ---
 
 # 📈 Power BI Dashboard
+📁 Power BI File: The complete interactive dashboard is available in the Dashboard folder.
 
 The CareerMatch dashboard consists of three pages, each focusing on a different aspect of the job market.
 
