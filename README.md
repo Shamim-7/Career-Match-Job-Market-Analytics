@@ -247,7 +247,6 @@ By combining multiple job-market dimensions into a single interactive dashboard,
 
 ## 📂 Project Structure
 
-```text
 CareerMatch-Job-Market-Analytics/
 │
 ├── README.md
@@ -256,15 +255,20 @@ CareerMatch-Job-Market-Analytics/
 │   └── CareerMatch.pbix
 │
 ├── Dataset/
-│   └── Job-Market-Dataset.csv
+│   └── CareerMatch_Sample_Dataset.csv
 │
 ├── Screenshots/
-│   ├── Page_1_Job_Market_Overview.png
-│   ├── Page_2_Career_Skill_Intelligence.png
-│   └── Page_3_Salary_Opportunities.png
+│   ├── Job_Market_Overview.png
+│   ├── Career & Skill Intelligence.png
+│   └── Salary_&_Opportunity Intelligence.png
 │
 └── Documentation/
-    └── Project_Documentation.pdf
+
+### 📌 Dataset Note
+
+The analysis was performed using the complete dataset containing **97,682 job listings**.
+
+Due to GitHub file-size limitations, a representative sample dataset is included in this repository for reference and demonstration purposes. The Power BI dashboard was developed using the complete dataset.
 ```
 
 ---
