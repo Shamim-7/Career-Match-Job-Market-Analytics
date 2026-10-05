@@ -138,11 +138,11 @@ The CareerMatch dashboard consists of three interactive Power BI pages, each foc
 
 ### Page 2 — Career & Skill Intelligence
 
-![Career & Skill Intelligence](Screenshots/Career & Skill Intelligence.png)
+![Career & Skill Intelligence](<Screenshots/Career & Skill Intelligence.png>)
 
 ### Page 3 — Salary & Opportunity Intelligence
 
-![Salary & Opportunity Intelligence](Screenshots/Salary_Opportunities.png)
+![Salary & Opportunity Intelligence](<Screenshots/Salary_&_Opportunity Intelligence.png>)
 
 ---
 
