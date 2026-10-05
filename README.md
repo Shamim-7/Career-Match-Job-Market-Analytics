@@ -128,6 +128,23 @@ The dashboard combines KPIs, charts, maps, tables, slicers, and other visualizat
 | **Excel / CSV**   | Dataset handling and initial data processing           |
 
 ---
+## 📊 Dashboard Preview
+
+The CareerMatch dashboard consists of three interactive Power BI pages, each focusing on a different aspect of the job market.
+
+### Page 1 — Job Market Overview
+
+![Job Market Overview](Screenshots/Job_Market_Overview.png)
+
+### Page 2 — Career & Skill Intelligence
+
+![Career & Skill Intelligence](Screenshots/Career_Skill_Intelligence.png)
+
+### Page 3 — Salary & Opportunities
+
+![Salary & Opportunities](Screenshots/Salary_Opportunities.png)
+
+---
 
 # 📈 Power BI Dashboard
 
